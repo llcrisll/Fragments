@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fragment_width">0dp</dimen>
+    <dimen name="tamano_nombre">25sp</dimen>
+    <dimen name="icon_twitter_size">20dp</dimen>
+    <dimen name="twitter_account_size">20dp</dimen>
+</resources>

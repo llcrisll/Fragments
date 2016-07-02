@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">nombre</string>
+    <string name="twitter_account">\@tiffy</string>
+    <string name="phone_number">5532993322</string>
+    <string name="twitter_account_key">twitter</string>
+    <string name="phone_number_key">phone</string>
+    <string name="amigo_key">amigo</string>
+</resources>
